@@ -24,6 +24,9 @@ else:
         print('Discount on the billed amount is ',dis)
         bill=amt-dis
         print('paid bill :',bill)
+    else:
+        print('SORRY!')
+        print('please purchase above 1000 to get the discount')
     
 #expected output
 #enter bill amount1200
