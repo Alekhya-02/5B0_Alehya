@@ -25,6 +25,27 @@ else:
         bill=amt-dis
         print('paid bill :',bill)
     
+#expected output
+#enter bill amount1200
+#Total bill is 1200
+#Discount on the billed amount is  120.0
+#paid bill : 1080.0
+
+#enter bill amount2300
+#Total bill is  2300
+#Discount on the billed amount is 460.0
+#paid bill : 1600
+
+#enter bill amount3400
+#Total bill is 3400
+#Discount on the billed amount is  1020.0
+#paid bill : 2380.0
+
+#enter bill amount5500
+#Total bill is 5500
+#Discount on the billed amount is  2200.0
+#paid bill : 3300.0    
+
     
 
     
