@@ -49,7 +49,9 @@ else:
 #Discount on the billed amount is  2200.0
 #paid bill : 3300.0    
 
-    
+#enter bill amount400
+#SORRY!
+#please purchase above 1000 to get the discount    
 
     
 
