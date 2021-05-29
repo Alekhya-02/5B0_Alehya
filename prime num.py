@@ -16,8 +16,8 @@ else:
 #enter number:11
 #11 is a prime number
 
-#enter number:5
-#5is not a prime number
+#enter number:6
+#6 is not a prime number
 
 #enter number:1
 #INVALID NUMBER
