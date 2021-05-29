@@ -1,7 +1,9 @@
 n=int(input('enter number:'))
 i=2
 Count=0
-if(n<2):
+if(n==1):
+    print('1 is neither PRIME NOR COMPOSITE')
+elif(n<1):
     print("INVALID NUMBER")
 else:
     while (i<n):
@@ -20,7 +22,7 @@ else:
 #6 is not a prime number
 
 #enter number:1
-#INVALID NUMBER
+#1 is neither PRIME NOR COMPOSITE
 
 #enter number:0
 #INVALID NUMBER
