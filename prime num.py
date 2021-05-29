@@ -6,7 +6,7 @@ if(n<2):
 else:
     while (i<n):
         if(n%i==0):
-            Count=1
+            Count+=1
             print("{} is not a prime number" .format(n))
             break
         i+=1
